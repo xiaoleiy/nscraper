@@ -1,0 +1,21 @@
+{
+  "name": "jscraper",
+  "version": "0.0.1",
+  "description": "the node scraper framework",
+  "private": true,
+  "main": "app.js",
+  "author": "yuleibest@gmail.com",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "csv": "^0.4.2",
+    "json2csv": "^2.3.0",
+    "request": "^2.55.0",
+    "sequelize": "^3.1.0",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/xiaoleiy/steelworks.git"
+  }
+}

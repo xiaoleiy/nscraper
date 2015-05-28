@@ -6,6 +6,7 @@
   "main": "app.js",
   "author": "yuleibest@gmail.com",
   "dependencies": {
+    "async": "^1.0.0",
     "cheerio": "^0.19.0",
     "csv": "^0.4.2",
     "json2csv": "^2.3.0",
@@ -16,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.coding.net/xiaoleiy/steelworks.git"
+    "url": "https://github.com/xiaoleiy/nscraper.git"
   }
 }

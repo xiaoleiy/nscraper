@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "the node scraper framework",
   "private": true,
-  "main": "app.js",
+  "main": "index.html",
   "author": "yuleibest@gmail.com",
   "dependencies": {
     "async": "^1.0.0",
@@ -19,5 +19,21 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/xiaoleiy/nscraper.git"
+  },
+  "window": {
+    "title": "node-webkit demo",
+    "icon": "link.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 800,
+    "max_height": 600
+  },
+  "webkit": {
+    "plugin": true
   }
 }
